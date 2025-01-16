@@ -169,7 +169,7 @@
             </div>
             <div class="circle-container">
                 <div class="rounded-circle overflow-hidden mx-auto">
-                    <img src="img/mirka.png" class="img-fluid" alt="Circle 3">
+                <img src="img/mirka.png" class="img-fluid" alt="Circle 3">
                 </div>
             </div>
             <div class="circle-container">

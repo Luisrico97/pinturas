@@ -95,7 +95,7 @@
                                         repintado automotriz y para tu hogar, ofreciendo productos de calidad con un
                                         equilibrio perfecto entre economía y rendimiento. </p>
                                     <a class="btn btn-outline-light py-2 px-4 mt-3 animate__animated animate__fadeInUp"
-                                        href="#">Ver Catalogo</a>
+                                    href="{{ route('shop') }}">Ver Catalogo</a>
                                 </div>
                             </div>
                         </div>
